@@ -4,6 +4,6 @@ the goal
 <li>visualize the data and process
 
 what
-<li> |-feature projection or feature exaction
+<br> |-feature projection or feature exaction
 <br> |--- umap - uniform manifold approximation and projection [none-linear]
 <br> |--- pca - principal component analysis, [linear]
