@@ -5,5 +5,5 @@ the goal
 
 what
 <li>feature projection or feature exaction
-<li> umap - uniform manifold approximation and projection [none-linear]
-<li> pca - principal component analysis, [linear]
+|_<li> umap - uniform manifold approximation and projection [none-linear]
+|_<li> pca - principal component analysis, [linear]
